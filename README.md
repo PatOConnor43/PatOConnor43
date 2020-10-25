@@ -5,11 +5,11 @@ software company called Workiva, where I write Dart, Go, and Java.
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/nvim-lua/lsp_extensions.nvim/issues/9) in [nvim-lua/lsp_extensions.nvim](https://github.com/nvim-lua/lsp_extensions.nvim)
+1. 🗣 Commented on [#14](https://github.com/nvim-lua/lsp_extensions.nvim/issues/14) in [nvim-lua/lsp_extensions.nvim](https://github.com/nvim-lua/lsp_extensions.nvim)
 2. 🗣 Commented on [#14](https://github.com/nvim-lua/lsp_extensions.nvim/issues/14) in [nvim-lua/lsp_extensions.nvim](https://github.com/nvim-lua/lsp_extensions.nvim)
 3. 🗣 Commented on [#9](https://github.com/nvim-lua/lsp_extensions.nvim/issues/9) in [nvim-lua/lsp_extensions.nvim](https://github.com/nvim-lua/lsp_extensions.nvim)
-4. ❗️ Opened issue [#14](https://github.com/nvim-lua/lsp_extensions.nvim/issues/14) in [nvim-lua/lsp_extensions.nvim](https://github.com/nvim-lua/lsp_extensions.nvim)
-5. 💪 Opened PR [#13](https://github.com/nvim-lua/lsp_extensions.nvim/pull/13) in [nvim-lua/lsp_extensions.nvim](https://github.com/nvim-lua/lsp_extensions.nvim)
+4. 🗣 Commented on [#14](https://github.com/nvim-lua/lsp_extensions.nvim/issues/14) in [nvim-lua/lsp_extensions.nvim](https://github.com/nvim-lua/lsp_extensions.nvim)
+5. 🗣 Commented on [#9](https://github.com/nvim-lua/lsp_extensions.nvim/issues/9) in [nvim-lua/lsp_extensions.nvim](https://github.com/nvim-lua/lsp_extensions.nvim)
 <!--END_SECTION:activity-->
 
 ### Stats
