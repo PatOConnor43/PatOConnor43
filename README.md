@@ -6,10 +6,10 @@ software company called Workiva, where I write Dart, Go, and Java.
 ### Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#11](https://github.com/PatOConnor43/asdf-dart/issues/11) in [PatOConnor43/asdf-dart](https://github.com/PatOConnor43/asdf-dart)
-2. 🗣 Commented on [#358](https://github.com/neovim/nvim-lspconfig/issues/358) in [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)
-3. 🗣 Commented on [#14](https://github.com/nvim-lua/lsp_extensions.nvim/issues/14) in [nvim-lua/lsp_extensions.nvim](https://github.com/nvim-lua/lsp_extensions.nvim)
-4. 🗣 Commented on [#14](https://github.com/nvim-lua/lsp_extensions.nvim/issues/14) in [nvim-lua/lsp_extensions.nvim](https://github.com/nvim-lua/lsp_extensions.nvim)
-5. 🗣 Commented on [#9](https://github.com/nvim-lua/lsp_extensions.nvim/issues/9) in [nvim-lua/lsp_extensions.nvim](https://github.com/nvim-lua/lsp_extensions.nvim)
+2. 🎉 Merged PR [#12](https://github.com/PatOConnor43/asdf-dart/pull/12) in [PatOConnor43/asdf-dart](https://github.com/PatOConnor43/asdf-dart)
+3. ❗️ Closed issue [#11](https://github.com/PatOConnor43/asdf-dart/issues/11) in [PatOConnor43/asdf-dart](https://github.com/PatOConnor43/asdf-dart)
+4. 💪 Opened PR [#12](https://github.com/PatOConnor43/asdf-dart/pull/12) in [PatOConnor43/asdf-dart](https://github.com/PatOConnor43/asdf-dart)
+5. 🗣 Commented on [#11](https://github.com/PatOConnor43/asdf-dart/issues/11) in [PatOConnor43/asdf-dart](https://github.com/PatOConnor43/asdf-dart)
 <!--END_SECTION:activity-->
 
 ### Stats
