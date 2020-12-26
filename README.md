@@ -6,10 +6,10 @@ software company called Workiva, where I write Dart, Go, and Java.
 ### Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#20](https://github.com/nvim-lua/lsp_extensions.nvim/issues/20) in [nvim-lua/lsp_extensions.nvim](https://github.com/nvim-lua/lsp_extensions.nvim)
-2. ❌ Closed PR [#13](https://github.com/nvim-lua/lsp_extensions.nvim/pull/13) in [nvim-lua/lsp_extensions.nvim](https://github.com/nvim-lua/lsp_extensions.nvim)
-3. ❗️ Closed issue [#14](https://github.com/nvim-lua/lsp_extensions.nvim/issues/14) in [nvim-lua/lsp_extensions.nvim](https://github.com/nvim-lua/lsp_extensions.nvim)
-4. 🗣 Commented on [#14](https://github.com/nvim-lua/lsp_extensions.nvim/issues/14) in [nvim-lua/lsp_extensions.nvim](https://github.com/nvim-lua/lsp_extensions.nvim)
-5. 🗣 Commented on [#11](https://github.com/PatOConnor43/asdf-dart/issues/11) in [PatOConnor43/asdf-dart](https://github.com/PatOConnor43/asdf-dart)
+2. 🗣 Commented on [#20](https://github.com/nvim-lua/lsp_extensions.nvim/issues/20) in [nvim-lua/lsp_extensions.nvim](https://github.com/nvim-lua/lsp_extensions.nvim)
+3. ❌ Closed PR [#13](https://github.com/nvim-lua/lsp_extensions.nvim/pull/13) in [nvim-lua/lsp_extensions.nvim](https://github.com/nvim-lua/lsp_extensions.nvim)
+4. ❗️ Closed issue [#14](https://github.com/nvim-lua/lsp_extensions.nvim/issues/14) in [nvim-lua/lsp_extensions.nvim](https://github.com/nvim-lua/lsp_extensions.nvim)
+5. 🗣 Commented on [#14](https://github.com/nvim-lua/lsp_extensions.nvim/issues/14) in [nvim-lua/lsp_extensions.nvim](https://github.com/nvim-lua/lsp_extensions.nvim)
 <!--END_SECTION:activity-->
 
 ### Stats
