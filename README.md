@@ -5,11 +5,11 @@ software company called Workiva, where I write Dart, Go, and Java.
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#48](https://github.com/pwntester/octo.nvim/issues/48) in [pwntester/octo.nvim](https://github.com/pwntester/octo.nvim)
-2. 🗣 Commented on [#44](https://github.com/datwaft/bubbly.nvim/issues/44) in [datwaft/bubbly.nvim](https://github.com/datwaft/bubbly.nvim)
-3. 🗣 Commented on [#48](https://github.com/pwntester/octo.nvim/issues/48) in [pwntester/octo.nvim](https://github.com/pwntester/octo.nvim)
-4. 💪 Opened PR [#48](https://github.com/pwntester/octo.nvim/pull/48) in [pwntester/octo.nvim](https://github.com/pwntester/octo.nvim)
-5. 🗣 Commented on [#16](https://github.com/pwntester/octo.nvim/issues/16) in [pwntester/octo.nvim](https://github.com/pwntester/octo.nvim)
+1. 🎉 Merged PR [#2](https://github.com/PatOConnor43/pat.coding.blog/pull/2) in [PatOConnor43/pat.coding.blog](https://github.com/PatOConnor43/pat.coding.blog)
+2. ❌ Reopened PR [#2](https://github.com/PatOConnor43/pat.coding.blog/pull/2) in [PatOConnor43/pat.coding.blog](https://github.com/PatOConnor43/pat.coding.blog)
+3. ❌ Closed PR [#2](https://github.com/PatOConnor43/pat.coding.blog/pull/2) in [PatOConnor43/pat.coding.blog](https://github.com/PatOConnor43/pat.coding.blog)
+4. 🗣 Commented on [#2](https://github.com/PatOConnor43/pat.coding.blog/issues/2) in [PatOConnor43/pat.coding.blog](https://github.com/PatOConnor43/pat.coding.blog)
+5. 🗣 Commented on [#2](https://github.com/PatOConnor43/pat.coding.blog/issues/2) in [PatOConnor43/pat.coding.blog](https://github.com/PatOConnor43/pat.coding.blog)
 <!--END_SECTION:activity-->
 
 ### Stats
