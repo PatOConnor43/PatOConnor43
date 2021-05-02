@@ -5,11 +5,11 @@ software company called Workiva, where I write Dart, Go, and Java.
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/PatOConnor43/asdf-dart/pull/16) in [PatOConnor43/asdf-dart](https://github.com/PatOConnor43/asdf-dart)
-2. 🗣 Commented on [#16](https://github.com/PatOConnor43/asdf-dart/issues/16) in [PatOConnor43/asdf-dart](https://github.com/PatOConnor43/asdf-dart)
-3. 🗣 Commented on [#6](https://github.com/PatOConnor43/asdf-dart/issues/6) in [PatOConnor43/asdf-dart](https://github.com/PatOConnor43/asdf-dart)
-4. 💪 Opened PR [#16](https://github.com/PatOConnor43/asdf-dart/pull/16) in [PatOConnor43/asdf-dart](https://github.com/PatOConnor43/asdf-dart)
-5. 🗣 Commented on [#13](https://github.com/PatOConnor43/asdf-dart/issues/13) in [PatOConnor43/asdf-dart](https://github.com/PatOConnor43/asdf-dart)
+1. 🗣 Commented on [#17](https://github.com/PatOConnor43/asdf-dart/issues/17) in [PatOConnor43/asdf-dart](https://github.com/PatOConnor43/asdf-dart)
+2. 💪 Opened PR [#18](https://github.com/PatOConnor43/asdf-dart/pull/18) in [PatOConnor43/asdf-dart](https://github.com/PatOConnor43/asdf-dart)
+3. 🎉 Merged PR [#16](https://github.com/PatOConnor43/asdf-dart/pull/16) in [PatOConnor43/asdf-dart](https://github.com/PatOConnor43/asdf-dart)
+4. 🗣 Commented on [#16](https://github.com/PatOConnor43/asdf-dart/issues/16) in [PatOConnor43/asdf-dart](https://github.com/PatOConnor43/asdf-dart)
+5. 🗣 Commented on [#6](https://github.com/PatOConnor43/asdf-dart/issues/6) in [PatOConnor43/asdf-dart](https://github.com/PatOConnor43/asdf-dart)
 <!--END_SECTION:activity-->
 
 ### Stats
